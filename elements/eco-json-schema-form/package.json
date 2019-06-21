@@ -52,7 +52,7 @@
     "@polymer/paper-tooltip": "^3.0.1",
     "@polymer/polymer": "^3.2.0",
     "ace-builds": "^1.4.1",
-    "jsoneditor": "^5.24.7",
+    "jsoneditor": "^6.0.0",
     "paper-collapse-item": "^4.0.4"
   },
   "devDependencies": {
@@ -63,9 +63,9 @@
     "@webcomponents/webcomponentsjs": "2.2.10",
     "concurrently": "4.1.0",
     "gulp-babel": "8.0.0",
-    "gulp-sourcemaps": "2.6.4",
+    "gulp-sourcemaps": "2.6.5",
     "lodash": "4.17.11",
-    "polymer-cli": "1.9.9",
+    "polymer-cli": "1.9.10",
     "wct-browser-legacy": "1.0.2"
   },
   "private": false,
